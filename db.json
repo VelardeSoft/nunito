@@ -1,0 +1,16 @@
+{
+  "Personas": [
+    {"id": 1, "nombre": "Juan", "edad": 30, "ciudad_id": 1},
+    {"id": 2, "nombre": "Ana", "edad": 25, "ciudad_id": 2},
+    {"id": 3, "nombre": "Luis", "edad": 40, "ciudad_id": 1}
+  ],
+  "Mascotas": [
+    {"id": 1, "nombre": "Firulais", "tipo": "Perro", "edad": 5, "persona_id": 1},
+    {"id": 2, "nombre": "Michi", "tipo": "Gato", "edad": 3, "persona_id": 2},
+    {"id": 3, "nombre": "Nemo", "tipo": "Pez", "edad": 1, "persona_id": 3}
+  ],
+  "Ciudad": [
+    {"id": 1, "nombre": "Ciudad de México", "pais": "México"},
+    {"id": 2, "nombre": "Buenos Aires", "pais": "Argentina"}
+  ]
+}
